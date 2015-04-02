@@ -1,0 +1,96 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-05 ; Times: 3
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psittacula eggs" ; Times: 1
+	Query: "geothlypis poliocephala stateprovince:"texas"" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "Piping Plover" ; Times: 1
+	Query: "sooty grouse" ; Times: 1
+	Query: "Leucosticte ATRATA institutioncode:DMNS" ; Times: 1
+	Query: "brown-headed nuthatch" ; Times: 1
+	Query: "bachman institutioncode:DMNS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 298 download events in this period)
+Total number of records downloaded: 145 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 127
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 77
+Total number of records retrieved from searches: 117
+Number of download events that retrieved data from the resource: 55
+Total number of records downloaded: 536
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 99
+Total number of records retrieved from searches: 495
+Number of download events that retrieved data from the resource: 63
+Total number of records downloaded: 708
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
