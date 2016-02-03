@@ -1,0 +1,122 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 109
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Canada ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 8
+	Date: 2015-12-09 ; Times: 4
+	Date: 2015-12-08 ; Times: 7
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-06 ; Times: 3
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 3
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-19 ; Times: 3
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "wilsonia pusilla type:specimen (new brunswick) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Coccothraustes egg" ; Times: 1
+	Query: "Acadian Flycatcher egg" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "roseate tern" ; Times: 2
+	Query: "Long-billed Curlew" ; Times: 3
+	Query: "red-naped sapsucker type:specimen" ; Times: 1
+	Query: "genus:strix stateprovince:&#34;colorado&#34;" ; Times: 2
+	Query: "Contopus virens" ; Times: 1
+	Query: "Larimer Anas" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "genus:callipepla stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Jackson 1889" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "Vireo philadelphicus egg" ; Times: 1
+	Query: "Tufted Titmouse egg" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "Sturnella magna" ; Times: 1
+	Query: "type:specimen (Chamberlin) year &gt;= 1870 year &lt;= 1920" ; Times: 1
+	Query: "strix colorado" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "Evening Grosbeak egg" ; Times: 1
+	Query: "Kinney minnesota" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Himantopus mexicanus (california) year &gt;= 1897 year &lt;= 1900" ; Times: 1
+	Query: "nuttall woodpecker" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "sialia mexicana year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 889 download events in this period)
+Total number of records downloaded: 265
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "alauda" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Pueblo Colorado Aves" ; Times: 1
+
+
+End of report.
