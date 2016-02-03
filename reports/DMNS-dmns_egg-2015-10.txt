@@ -1,0 +1,101 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 68
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 25
+	Country: Argentina ; Times: 4
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-04 ; Times: 5
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lava gull" ; Times: 2
+	Query: "burlington class:Aves country:&#34;united states&#34; year &gt;= 1892 year &lt;= 1894" ; Times: 1
+	Query: "Swallow-tailed Kite" ; Times: 1
+	Query: "buteo albicaudatus" ; Times: 1
+	Query: "Cyrtonyx montezumae Chihuahua" ; Times: 2
+	Query: "specificepithet:kirtlandii stateprovince:&#34;michigan&#34; AND (NOT UMMZ) year &gt;= 1900 year &lt;= 1943" ; Times: 1
+	Query: "piping plover" ; Times: 4
+	Query: "american wigeon" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "great auk" ; Times: 3
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Red-legged Kittiwake" ; Times: 2
+	Query: "H 5760" ; Times: 1
+	Query: "Langara Island" ; Times: 1
+	Query: "North Island British Columbia 1931" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 4
+	Query: "Synthliboramphus hypoleucus California" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 2
+	Query: "Phaethon lepturus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 823 download events in this period)
+Total number of records downloaded: 1213
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "aeneus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+
+
+End of report.
