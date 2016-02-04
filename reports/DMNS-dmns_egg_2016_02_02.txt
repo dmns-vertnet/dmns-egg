@@ -1,0 +1,96 @@
+Report for Institution Code DMNS, Resource Bird eggs/nests
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 195
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-18 ; Times: 11
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "Oceanodroma homochroa 1896" ; Times: 1
+	Query: "Elanoides forficatus egg" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "San Benito Islands" ; Times: 2
+	Query: "long eared owl" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "Cyanocitta Watertown" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:willett institutioncode:DMNS" ; Times: 2
+	Query: "Dendroica tigrina egg" ; Times: 3
+	Query: "class:aves locality:forrester stateprovince:"alaska" recordedby:willett year >= 1918 year <= 1919" ; Times: 1
+	Query: "Ectopistes migratorius minnesota eggs" ; Times: 1
+	Query: "Least Storm-Petrel" ; Times: 1
+	Query: "class:aves locality:forrester stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett institutioncode:DMNS" ; Times: 3
+	Query: "Oceanodroma homochroa 1895" ; Times: 1
+	Query: "eggs minnesota bird" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 507 download events in this period)
+Total number of records downloaded: 71 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 71
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aechmophorus" ; Times: 1
+	Query: "wilsonia pusilla month >= 6 month <= 7" ; Times: 1
+	Query: ""Santa Cruz Island" class:Aves stateprovince:"California"" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 71
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 33
+Total number of records retrieved from searches: 195
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 71
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
