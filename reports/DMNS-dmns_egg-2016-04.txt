@@ -1,0 +1,136 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 131
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: Portugal ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Montenegro ; Times: 1
+	Country: United States ; Times: 35
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 8
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-15 ; Times: 5
+	Date: 2016-04-17 ; Times: 3
+	Date: 2016-04-10 ; Times: 7
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 11
+	Date: 2016-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crex crex" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND Island" ; Times: 1
+	Query: "bluebirds" ; Times: 1
+	Query: "crex" ; Times: 2
+	Query: "SAN MIGUEL ISLAND AND Egg AND 1916" ; Times: 2
+	Query: "Bradbury AND San Miguel Island" ; Times: 2
+	Query: "Bird skins" ; Times: 2
+	Query: "elf" ; Times: 20
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "DMNS 6560" ; Times: 1
+	Query: "DMNS 5837" ; Times: 2
+	Query: "DMNS 6327" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila)" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND ISland" ; Times: 1
+	Query: "Howell AND 1910 AND Island" ; Times: 2
+	Query: "hydrobates" ; Times: 1
+	Query: "Howell AND 1910" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "Great auk" ; Times: 2
+	Query: "SAN MIGUEL ISLAND AND Egg AND 1910" ; Times: 1
+	Query: "N. Gale" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "piping plover" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "DMNS 5554" ; Times: 1
+	Query: "DMNS 5553" ; Times: 3
+	Query: "wood turtle" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "birds from Europe" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1312 download events in this period)
+Total number of records downloaded: 168
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-24 ; Times: 3
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phoebastria" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
