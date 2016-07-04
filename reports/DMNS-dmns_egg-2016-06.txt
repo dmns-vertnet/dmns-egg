@@ -1,0 +1,134 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 181
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Unknown ; Times: 5
+	Country: Russia ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 4
+	Date: 2016-06-23 ; Times: 8
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 7
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-07 ; Times: 11
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "J. W. Miller institutioncode:DMNS" ; Times: 1
+	Query: "magnolia warbler egg" ; Times: 1
+	Query: "egg gowland" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;United States&#34;" ; Times: 1
+	Query: "egg 1900 suriname" ; Times: 1
+	Query: "Isla Natividad Mexico" ; Times: 1
+	Query: "egg farralone islands 1890" ; Times: 1
+	Query: "a.w. anthony" ; Times: 1
+	Query: "egg washington 1919" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1931" ; Times: 1
+	Query: "AMB 83" ; Times: 2
+	Query: "elf" ; Times: 8
+	Query: "Santa Cruz Island AND eggs AND 1918" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1919" ; Times: 1
+	Query: "Oceanodroma homochroa egg" ; Times: 2
+	Query: "Walter Miller" ; Times: 2
+	Query: "Santa Cruz Island AND eggs AND 1915" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1916" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "egg 1897 kansas" ; Times: 1
+	Query: "trogon preparations:egg" ; Times: 4
+	Query: "Isla Natividad Mexico AND 1914" ; Times: 1
+	Query: "Lanius ludovicianus AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1916" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1910" ; Times: 1
+	Query: "egg florida 1889" ; Times: 1
+	Query: "Meadows AND Island NOT ALaska" ; Times: 1
+	Query: "sowers h.s." ; Times: 2
+	Query: "Meadows AND Island NOT British" ; Times: 1
+	Query: "Badger AND Cruz ISland" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1913" ; Times: 1
+	Query: "egg 1920 ca" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1897" ; Times: 1
+	Query: "egg iowa 1891" ; Times: 1
+	Query: "type:specimen genus:Phoenicopterus year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "San Miguel Island AND Egg AND 1916" ; Times: 2
+	Query: "San Miguel Island AND Egg AND 1910" ; Times: 1
+	Query: "Dawson AND Santa Cruz ISland" ; Times: 1
+	Query: "Lanius ludovicianus AND Santa BArbara Island" ; Times: 1
+	Query: "Meadows AND Island NOT British NOT Singapore" ; Times: 1
+	Query: "Ready AND Island" ; Times: 2
+	Query: "w.c. wright 1904 belfast egg" ; Times: 1
+	Query: "great gray owl" ; Times: 1
+	Query: "Oceanodroma microsoma AND Island" ; Times: 1
+	Query: "egg beach collector Florida" ; Times: 1
+	Query: "Psaltriparus minimus AND CMNH" ; Times: 1
+	Query: "Brenninger AND Island" ; Times: 2
+	Query: "egg siberia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1052 download events in this period)
+Total number of records downloaded: 84
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "magnolia warbler" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
