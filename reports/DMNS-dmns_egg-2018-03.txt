@@ -1,0 +1,223 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 562
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 14
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 24
+	Country: United States ; Times: 204
+	Country: China ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 23
+	Date: 2018-03-17 ; Times: 4
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 4
+	Date: 2018-03-12 ; Times: 11
+	Date: 2018-03-11 ; Times: 3
+	Date: 2018-03-27 ; Times: 20
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 15
+	Date: 2018-03-18 ; Times: 3
+	Date: 2018-03-01 ; Times: 6
+	Date: 2018-03-02 ; Times: 8
+	Date: 2018-03-03 ; Times: 13
+	Date: 2018-03-05 ; Times: 6
+	Date: 2018-03-06 ; Times: 16
+	Date: 2018-03-29 ; Times: 10
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-09 ; Times: 6
+	Date: 2018-03-24 ; Times: 3
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 5
+	Date: 2018-03-23 ; Times: 21
+	Date: 2018-03-20 ; Times: 12
+	Date: 2018-03-21 ; Times: 25
+	Date: 2018-03-26 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 2
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:DMNS" ; Times: 1
+	Query: "vntype:specimen country:&#34;Brazil&#34; (egg)" ; Times: 1
+	Query: "white tern" ; Times: 1
+	Query: "class:Aves recordedby:Abbott year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "genus:Meleagris specificepithet:gallopavo" ; Times: 5
+	Query: "savannah sparrow" ; Times: 1
+	Query: "corvus corax" ; Times: 2
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "class:Aves recordedby:Abbott year &gt;= 1904 year &lt;= 1904 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "empidonax alnorum" ; Times: 2
+	Query: "genus:Alca specificepithet:torda" ; Times: 5
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 2
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Anas specificepithet:crecca" ; Times: 2
+	Query: "ipswich sparrow" ; Times: 1
+	Query: "genus:Sterna specificepithet:hirundo" ; Times: 3
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "spotted towhee" ; Times: 3
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 5
+	Query: "buteo swainsoni " ; Times: 17
+	Query: "common raven" ; Times: 2
+	Query: "Pyrocephalus rubinus" ; Times: 4
+	Query: "American Kestrel" ; Times: 2
+	Query: "great horned owl" ; Times: 1
+	Query: "class:Aves recordedby:Abbott" ; Times: 1
+	Query: "(Common Era)" ; Times: 1
+	Query: "6269" ; Times: 3
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "genus:Corvus specificepithet:corax" ; Times: 5
+	Query: "corvus corax corax" ; Times: 1
+	Query: "house wren" ; Times: 1
+	Query: "Tree Swallow" ; Times: 1
+	Query: "bird mass" ; Times: 2
+	Query: "genus:Pandion specificepithet:haliaetus" ; Times: 5
+	Query: "witch" ; Times: 2
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 2
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "vntype:specimen family: Caprimulgidae (WS)" ; Times: 1
+	Query: "genus:Picoides specificepithet:pubescens" ; Times: 1
+	Query: "Canada Warbler" ; Times: 1
+	Query: "preparations:nest" ; Times: 2
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "body size" ; Times: 3
+	Query: "recordedby:Smith year &gt;= 1901 year &lt;= 1901 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "order:Aepyornithiformes" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "class:aves locality:lawrence stateprovince:&#34;alaska&#34; recordedby:hendee year &gt;= 1921 year &lt;= 1921 institutioncode:DMNS" ; Times: 1
+	Query: "Oceanodroma leucorhoa egg" ; Times: 1
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 2
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 5
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "bank swallow" ; Times: 1
+	Query: "egg vntype:specimen country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 5
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 5
+	Query: "recordedby:Taylor year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "aepyornis" ; Times: 9
+	Query: "genus:Clangula specificepithet:hyemalis" ; Times: 2
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1850 year &lt;= 2018" ; Times: 1
+	Query: "genus:Colaptes specificepithet:auratus" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 14
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "genus:Phoebastria  specificepithet:nigripes " ; Times: 3
+	Query: "genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "genus:Colaptes" ; Times: 2
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 4
+	Query: "Lapland 1907" ; Times: 4
+	Query: "egg vntype:specimen country:&#34;brazil&#34; preparations:egg" ; Times: 3
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Seiurus specificepithet:aurocapilla" ; Times: 5
+	Query: "Lesser Nighthawk" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "athene cunicularia" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 4
+	Query: "genus:Picoides" ; Times: 1
+	Query: "hasmedia:1 bird" ; Times: 2
+	Query: "genus:Passer specificepithet:domesticus" ; Times: 2
+	Query: "specificepithet:interpres class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 2
+	Query: "genus:Larus specificepithet:argentatus" ; Times: 5
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 5
+	Query: "genus:Aepyornis" ; Times: 3
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 5
+	Query: "Wood turtle" ; Times: 1
+	Query: "bluebird" ; Times: 1
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "Phasianus colchicus colchicus" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "country:&#34;brazil&#34; preparations:egg" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1284 download events in this period)
+Total number of records downloaded: 1283
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-18 ; Times: 4
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 2
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "family:laridae mappable:1" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:DMNS" ; Times: 1
+	Query: "vntype:specimen country:&#34;Brazil&#34; (egg)" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "family:Laridae mappable:1" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "institutioncode:DMNS hassex:1 hasmass:1 class:Aves" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1850 year &lt;= 2018" ; Times: 1
+	Query: "family:alcidae mappable:1" ; Times: 2
+	Query: "egg vntype:specimen class:aves preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "ipswich sparrow" ; Times: 1
+	Query: "class:Aves 2014 specimen" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+
+
+End of report.
