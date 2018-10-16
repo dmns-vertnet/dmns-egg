@@ -1,0 +1,145 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 280
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 72
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: China ; Times: 8
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 5
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-27 ; Times: 4
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 10
+	Date: 2018-05-05 ; Times: 5
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-15 ; Times: 6
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 11
+	Date: 2018-05-11 ; Times: 5
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 6
+	Date: 2018-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phainopepla nitens" ; Times: 1
+	Query: "distance(location,geopoint(47.325507804,-95.8597765889999))&lt;24904" ; Times: 2
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "distance(location,geopoint(47.3672678674276,-96.2767124315031))&lt;29148" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "egg c.d. brower point barrow" ; Times: 2
+	Query: "specificepithet:traillii genus:empidonax institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus preparations:Egg" ; Times: 1
+	Query: "salt lake city" ; Times: 1
+	Query: "distance(location,geopoint(42.8002793255845,-89.2324399002682))&lt;9143" ; Times: 1
+	Query: "distance(location,geopoint(43.9302007876938,-93.1386640465672))&lt;22744" ; Times: 1
+	Query: "white-breasted nuthatch" ; Times: 1
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "specificepithet:ultramarina genus:Aphelocoma" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(45.447436005,-86.8329547574999))&lt;20809" ; Times: 2
+	Query: "great crested flycatcher" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "specificepithet:mollissima genus:Somateria country:&#34;united states&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "distance(location,geopoint(42.9047169013261,-94.9236653676191))&lt;15109" ; Times: 2
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "Icteria virens augusta georgia" ; Times: 1
+	Query: "marshalltown" ; Times: 2
+	Query: "specificepithet:poliocephala genus:Geothlypis" ; Times: 1
+	Query: "distance(location,geopoint(43.2547916795001,-94.2313004395))&lt;32280" ; Times: 2
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tiaris" ; Times: 1
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 2
+	Query: "specificepithet:parellina genus:Cyanocompsa" ; Times: 1
+	Query: "specificepithet:crinitus genus:Myiarchus stateprovince:&#34;Kansas&#34; year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "order:Trogoniformes institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gilded flicker" ; Times: 2
+	Query: "Actitis macularius" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "aepyornis" ; Times: 4
+	Query: "specificepithet:mollissima genus:Somateria country:United States" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:marila genus:Aythya collectioncode:eggs" ; Times: 1
+	Query: "vntype:specimen (marshalltown)" ; Times: 1
+	Query: "Falco catalognumber:2204" ; Times: 2
+	Query: "dovekie" ; Times: 1
+	Query: "red-legged kittiwake" ; Times: 1
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34; AND (NOT dixon NOT littlejohn NOT alexander)" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "egg Actitis macularius 1800" ; Times: 1
+	Query: "specificepithet:cinctus genus:poecile class:aves" ; Times: 1
+	Query: "peaples" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "A. G. Burr" ; Times: 1
+	Query: "specificepithet:traillii genus:Empidonax stateprovince:&#34;Kansas&#34; year &lt;= 1900" ; Times: 2
+	Query: "genus:cerorhinca preparations:egg" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 3
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "Long-billed Dowitcher" ; Times: 1
+	Query: "marshalltown iowa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 106
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 2
+	Query: "marshalltown" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "gulf of california class:aves year &lt;= 1960" ; Times: 1
+
+
+End of report.
