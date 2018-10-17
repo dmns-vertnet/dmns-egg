@@ -1,0 +1,182 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 241
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 70
+	Country: China ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 10
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 12
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-28 ; Times: 3
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-20 ; Times: 9
+	Date: 2018-06-08 ; Times: 11
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-10 ; Times: 4
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-15 ; Times: 11
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 2
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "frazar labrador 1884" ; Times: 1
+	Query: "poling" ; Times: 1
+	Query: "Rhododendron" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "western meadowlark" ; Times: 3
+	Query: "order:Trogoniformes institutioncode:DMNS" ; Times: 1
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 4
+	Query: "Barn Swallow vntype:specimen" ; Times: 2
+	Query: "great horned owl" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina" ; Times: 1
+	Query: "cupido" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "white-eyed vireo" ; Times: 1
+	Query: "pigeon guillemot egg" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 2
+	Query: "egg somateria pt barrow 1898" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "specificepithet:asiatica genus:Zenaida" ; Times: 3
+	Query: "egg somateria fischeri pt barrow 1898" ; Times: 1
+	Query: "ring necked pheasant" ; Times: 1
+	Query: "egg alaska 1898" ; Times: 2
+	Query: "horned puffin" ; Times: 1
+	Query: "clangula hyemalis egg iceland" ; Times: 1
+	Query: "cleckley" ; Times: 1
+	Query: "specificepithet:americana genus:Parula collectioncode:eggs" ; Times: 2
+	Query: "porch" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 2
+	Query: "common yellowthroat" ; Times: 1
+	Query: "cobbs 1882 egg" ; Times: 1
+	Query: "witch" ; Times: 14
+	Query: "rabbit" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Vireo collectioncode:eggs" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "locality:Black Hills National Forest" ; Times: 2
+	Query: "Wood turtle" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "blue jay" ; Times: 3
+	Query: "laterallus" ; Times: 1
+	Query: "egg somateria fischeri point barrow 1898" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella collectioncode:eggs year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus collectioncode:eggs" ; Times: 1
+	Query: "Cyanocitta new york" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "western kingbird" ; Times: 1
+	Query: "crowley county colorado" ; Times: 1
+	Query: "puffin" ; Times: 2
+	Query: "Empidonax flaviventris" ; Times: 1
+	Query: "frazar labrador" ; Times: 2
+	Query: "blue grouse" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1169 download events in this period)
+Total number of records downloaded: 795
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 20
+	Country: United States ; Times: 52
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-15 ; Times: 4
+	Date: 2018-06-08 ; Times: 16
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "snowy owl" ; Times: 2
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "horned puffin" ; Times: 1
+	Query: "elf owl" ; Times: 15
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "oregon" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "spotted owl" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+
+
+End of report.
