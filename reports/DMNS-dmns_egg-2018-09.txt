@@ -1,0 +1,167 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 546
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 18
+	Country: Mexico ; Times: 82
+	Country: India ; Times: 2
+	Country: United States ; Times: 63
+	Country: China ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 8
+	Date: 2018-09-05 ; Times: 7
+	Date: 2018-09-24 ; Times: 41
+	Date: 2018-09-25 ; Times: 5
+	Date: 2018-09-26 ; Times: 28
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-21 ; Times: 5
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 8
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-10 ; Times: 6
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 25
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "burrowing owl" ; Times: 1
+	Query: "egg mississippi" ; Times: 2
+	Query: "catalognumber:6979 institutioncode:DMNS" ; Times: 1
+	Query: "Egretta thula" ; Times: 11
+	Query: "egg corless" ; Times: 1
+	Query: "catalognumber:2331 institutioncode:DMNS" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 5
+	Query: "Farallon 1899" ; Times: 3
+	Query: "catalognumber:1597 institutioncode:DMNS" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Easter egg" ; Times: 1
+	Query: "class:Aves recordedby:Loucks" ; Times: 4
+	Query: "Pyrocephalus rubinus" ; Times: 5
+	Query: "tree swallow" ; Times: 2
+	Query: "lagopus lagopus" ; Times: 15
+	Query: "devil" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "longspur" ; Times: 1
+	Query: "common tern" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "common otter" ; Times: 1
+	Query: "PILEATED woodpecker" ; Times: 1
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "corvus corax" ; Times: 31
+	Query: "MELANERPES ERYTHROCEPHALUS" ; Times: 1
+	Query: "sterna dougallii (virginia OR carolina OR jersey)" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 2
+	Query: "egg ligon" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "palmas" ; Times: 3
+	Query: "catalognumber:1688 institutioncode:DMNS" ; Times: 1
+	Query: "DOWNY WOODPECKER" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "cave san francisco" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "white-winged scoter dakota" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "witch" ; Times: 10
+	Query: "egretta thula" ; Times: 7
+	Query: "John Nichols" ; Times: 1
+	Query: "country:&#34;FInland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "osprey" ; Times: 1
+	Query: "LAGOPUS LAGOPUS" ; Times: 3
+	Query: "family:Vireonidae stateprovince:&#34;minnesota&#34; preparations:egg" ; Times: 1
+	Query: "bird eggs collection" ; Times: 2
+	Query: "laterallus" ; Times: 1
+	Query: "&#34;Osgood&#34;" ; Times: 1
+	Query: "yellow-bellied flycatcher" ; Times: 1
+	Query: "fox sparrow" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "white-winged scoter" ; Times: 1
+	Query: "recordedby:trostler" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 12
+	Query: "egg alaska call" ; Times: 2
+	Query: "Red-footed booby" ; Times: 3
+	Query: "body size" ; Times: 1
+	Query: "catalognumber:6676 institutioncode:DMNS" ; Times: 2
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 1
+	Query: "ancient" ; Times: 1
+	Query: "zonotrichia tacoma egg" ; Times: 1
+	Query: "Screech owl" ; Times: 1
+	Query: "Lagopus lagopus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 846 download events in this period)
+Total number of records downloaded: 274
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "recordedby:John Koran year &gt;= 1850 year &lt;= 1910" ; Times: 1
+	Query: "haslength:1" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "recordedby:John Koren" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+
+
+End of report.
