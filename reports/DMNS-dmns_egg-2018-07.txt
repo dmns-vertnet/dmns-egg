@@ -1,0 +1,201 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 338
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 9
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 62
+	Country: China ; Times: 8
+	Country: Peru ; Times: 43
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-28 ; Times: 5
+	Date: 2018-07-29 ; Times: 4
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 5
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-06 ; Times: 8
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 7
+	Date: 2018-07-24 ; Times: 43
+	Date: 2018-07-25 ; Times: 6
+	Date: 2018-07-11 ; Times: 5
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-16 ; Times: 11
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-19 ; Times: 7
+	Date: 2018-07-18 ; Times: 5
+	Date: 2018-07-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Pyrocephalus rubinus mappable:1" ; Times: 1
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Myiarchus crinitus mappable:1" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "Oporornis agilis mappable:1" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 2
+	Query: "L.E. Allen" ; Times: 1
+	Query: "eagle egg" ; Times: 2
+	Query: "aves 6399" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "Empidonax alnorum mappable:1" ; Times: 1
+	Query: "Egretta thula mappable:1" ; Times: 1
+	Query: "Riparia riparia mappable:1" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus ( egg)" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 4
+	Query: "British Columbia Altin" ; Times: 1
+	Query: "specificepithet:alnorum genus:Empidonax institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "6399" ; Times: 1
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus year &gt;= 1870 year &lt;= 1910" ; Times: 2
+	Query: "Amazonetta brasiliensis" ; Times: 2
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Common Eider Somateria mollissima" ; Times: 1
+	Query: "Falco rusticolus" ; Times: 1
+	Query: "Piranga rubra mappable:1" ; Times: 1
+	Query: "Laterallus jamaicensis mappable:1" ; Times: 1
+	Query: "WM 3" ; Times: 1
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "Barred owl" ; Times: 2
+	Query: "6063" ; Times: 1
+	Query: "egg cape st. lucas" ; Times: 1
+	Query: "murrelet" ; Times: 1
+	Query: "Lagopus" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "Pileated woodpecker" ; Times: 2
+	Query: "Tyrannus dominicensis eggs" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "Barn swallow" ; Times: 1
+	Query: "Buteo swainsoni mappable:1" ; Times: 1
+	Query: "Arenaria interpres mappable:1" ; Times: 1
+	Query: "egg rabbit" ; Times: 1
+	Query: "Chordeiles acutipennis mappable:1" ; Times: 1
+	Query: "aves arctic coast" ; Times: 1
+	Query: "genus:Limnodromus year &gt;= 1924 year &lt;= 1924 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; institutioncode:DMNS" ; Times: 1
+	Query: "Myiarchus tyrannulus mappable:1" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 3
+	Query: "Egretta tricolor mappable:1" ; Times: 1
+	Query: "Coccyzus erythropthalmus mappable:1" ; Times: 1
+	Query: "chickadee" ; Times: 2
+	Query: "Cistothorus platensis mappable:1" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 1
+	Query: "gyrfalcon" ; Times: 2
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "genus:cygnus stateprovince:&#34;alaska&#34; year &gt;= 1880 year &lt;= 1885" ; Times: 1
+	Query: "bald eagle egg" ; Times: 1
+	Query: "Ictinia mississippiensis mappable:1" ; Times: 1
+	Query: "Isla Natividad ANthony 1897" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "barred owl" ; Times: 2
+	Query: "egg auklet alaska" ; Times: 1
+	Query: "egg athene california 1895" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 2
+	Query: "Actitis macularius mappable:1" ; Times: 3
+	Query: "Isla Natividad ANthony" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 1
+	Query: "burrowing owl" ; Times: 1
+	Query: "Egretta caerulea mappable:1" ; Times: 1
+	Query: "Buteo platypterus mappable:1" ; Times: 1
+	Query: "Natividad Baja &#34;1897&#34;" ; Times: 2
+	Query: "egg arctic coast" ; Times: 1
+	Query: "Natividad Island Howell" ; Times: 1
+	Query: "eastern bluebird" ; Times: 1
+	Query: "specificepithet:dorsale genus:Toxostoma" ; Times: 1
+	Query: "Psittacula egg" ; Times: 3
+	Query: "class:aves locality:juneau stateprovince:&#34;alaska&#34; year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "cardinal" ; Times: 3
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Phalaropus lobatus mappable:1" ; Times: 1
+	Query: "Iowa marshall county albion" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 3
+	Query: "vntype:specimen class:Aves institutioncode:DMNS hastypestatus:1" ; Times: 1
+	Query: "american kestrel" ; Times: 3
+	Query: "Eudocimus albus mappable:1" ; Times: 1
+	Query: "Iowa marshall county allen" ; Times: 1
+	Query: "Catharus fuscescens mappable:1" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Iowa Marshall county" ; Times: 1
+	Query: "Barn Swallow" ; Times: 1
+	Query: "Rallus limicola mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 977 download events in this period)
+Total number of records downloaded: 230
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 10
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pipilo" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "specificepithet:dorsale genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "vntype:specimen class:Aves institutioncode:DMNS hastypestatus:1" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
