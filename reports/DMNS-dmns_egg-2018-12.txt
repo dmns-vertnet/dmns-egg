@@ -1,0 +1,172 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 285
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 12
+	Country: United States ; Times: 56
+	Country: Peru ; Times: 5
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-19 ; Times: 3
+	Date: 2018-12-18 ; Times: 8
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-14 ; Times: 3
+	Date: 2018-12-17 ; Times: 3
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 5
+	Date: 2018-12-20 ; Times: 12
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-24 ; Times: 2
+	Date: 2018-12-25 ; Times: 4
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-04 ; Times: 6
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 3
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "farallon island" ; Times: 1
+	Query: "point hope" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "crissal thrasher" ; Times: 1
+	Query: "otus" ; Times: 1
+	Query: "e DMNS" ; Times: 2
+	Query: "Black Guillemot" ; Times: 1
+	Query: "common raven" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1947 year &lt;= 1947" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "Darling ireland" ; Times: 2
+	Query: "Fratercula arctica mappable:1" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "5271" ; Times: 1
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1845 year &lt;= 1950" ; Times: 2
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "king rail" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "falkland island egg" ; Times: 1
+	Query: "class:aves recordedby:armstrong year &gt;= 1894 year &lt;= 1894 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "phalacrocorax auritus" ; Times: 2
+	Query: "Larus argentatus mappable:1" ; Times: 1
+	Query: "Burrowing owl" ; Times: 3
+	Query: "specificepithet:asio genus:otus" ; Times: 2
+	Query: "Asio otus" ; Times: 1
+	Query: "specificepithet:pacificus genus:Puffinus" ; Times: 1
+	Query: "California spotted owl" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 3
+	Query: "black throated sparrow" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Russia&#34; recordedby:Bailey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "cactus wren" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Thalasseus sandvicensis mappable:1" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "anthony country:&#34;Mexico&#34; year &gt;= 1893" ; Times: 2
+	Query: "athene" ; Times: 1
+	Query: "otus asio" ; Times: 2
+	Query: "Accipiter gentilis eggs" ; Times: 2
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "tyrannus eggs" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Paradisaea dmns" ; Times: 1
+	Query: "genus:phoenicopterus year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "california spotted owl" ; Times: 1
+	Query: "pacific loon" ; Times: 1
+	Query: "clapper rail" ; Times: 1
+	Query: "anthony country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1902 year &lt;= 1909" ; Times: 2
+	Query: "recordedby:greenwood year &gt;= 1870 year &lt;= 1900" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 809 download events in this period)
+Total number of records downloaded: 455
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: India ; Times: 9
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1845 year &lt;= 1950" ; Times: 1
+	Query: "Osburn PI" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "Geococcyx californianus" ; Times: 1
+
+
+End of report.
