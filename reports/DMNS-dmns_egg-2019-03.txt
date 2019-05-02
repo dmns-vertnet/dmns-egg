@@ -1,0 +1,145 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 349
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 113
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-02 ; Times: 5
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-26 ; Times: 4
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-09 ; Times: 3
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 11
+	Date: 2019-03-06 ; Times: 59
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-31 ; Times: 3
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 5
+	Date: 2019-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Isla Guadalupe AND 1897" ; Times: 1
+	Query: "Guadalupe Island AND Anthony" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Maine" ; Times: 4
+	Query: "locality:summit county:&#34;placer&#34;" ; Times: 2
+	Query: "ferruginous hawk" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Chickadee" ; Times: 1
+	Query: "buteogallus anthracinus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Wisconsin" ; Times: 4
+	Query: "indigo bunting" ; Times: 1
+	Query: "Guadalupe Island AND Anthony AND 1897" ; Times: 1
+	Query: "corvus caurinus 121" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "specificepithet:atricapillus genus:Poecile year &lt;= 1860" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Colorado" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Kansas" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New York" ; Times: 3
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 3
+	Query: "black phoebe" ; Times: 4
+	Query: "gray jay" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Massachusetts" ; Times: 4
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Connecticut" ; Times: 4
+	Query: "alder flycatcher" ; Times: 1
+	Query: "tree sparrow" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "Large ground finch" ; Times: 2
+	Query: "specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "northern pike" ; Times: 1
+	Query: "pine bush" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Washington" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Illinois" ; Times: 4
+	Query: "nest vntype:specimen specificepithet:pelagica genus:chaetura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "montezuma quail" ; Times: 14
+	Query: "cygnus atratus egg vntype:specimen" ; Times: 1
+	Query: "Indigo Bunting" ; Times: 1
+	Query: "specificepithet:auratus genus:Colaptes stateprovince:&#34;Montana&#34; institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Guadalupe AND Anthony" ; Times: 1
+	Query: "specificepithet:auratus genus:Colaptes stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Bell’s Vireo" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Iowa" ; Times: 4
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "gough island" ; Times: 2
+	Query: "Procellaria parkinsoni" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "San Pedro River Fairbank Arizona vntype:specimen" ; Times: 1
+	Query: "Milton Ray AND Farallon" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:South Dakota" ; Times: 4
+	Query: "white-tailed hawk" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Pennsylvania" ; Times: 4
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1281 download events in this period)
+Total number of records downloaded: 117
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "american coot" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "corvus caurinus 121" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+
+
+End of report.
