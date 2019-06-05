@@ -1,0 +1,170 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 194
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 100
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 7
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-08 ; Times: 4
+	Date: 2019-05-07 ; Times: 5
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-25 ; Times: 3
+	Date: 2019-05-24 ; Times: 4
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 14
+	Date: 2019-05-20 ; Times: 7
+	Date: 2019-05-23 ; Times: 17
+	Date: 2019-05-22 ; Times: 21
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 10
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 7
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-16 ; Times: 3
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "SECHRIST AND 1914" ; Times: 1
+	Query: "Geothlypis trichas Merced County egg" ; Times: 1
+	Query: "bank swallow" ; Times: 1
+	Query: "egg franklin bay" ; Times: 3
+	Query: "Florida scrub-jay" ; Times: 14
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Mallard Duck" ; Times: 1
+	Query: "specificepithet:nebulosa genus:Strix stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "phasianus colchicus" ; Times: 1
+	Query: "Quiscalus Mexicanus tamaulipas" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma" ; Times: 1
+	Query: "alberta bucephala egg" ; Times: 1
+	Query: "Laterallus jamaicensis mappable:1" ; Times: 1
+	Query: "red breasted merganser" ; Times: 1
+	Query: "Canfield" ; Times: 1
+	Query: "california gnatcatcher" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Poecile atricapillus egg west virginia" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "egg pugnax" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 6
+	Query: "macronectes giganteus" ; Times: 2
+	Query: "Ring necked pheasant" ; Times: 3
+	Query: "Yellow-billed cuckoo" ; Times: 6
+	Query: "elf" ; Times: 1
+	Query: "gray jay" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 3
+	Query: "hummingbird egg" ; Times: 2
+	Query: "Toxostoma bendirei" ; Times: 3
+	Query: "loggerhead" ; Times: 1
+	Query: "messenger" ; Times: 1
+	Query: "Alauda 1921" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo year &lt;= 1960" ; Times: 1
+	Query: "Poecile atricapillus west virginia" ; Times: 1
+	Query: "specificepithet:interpres class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 2
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "horton dutchess" ; Times: 17
+	Query: "specificepithet:colchicus genus:phasianus country:&#34;United States&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "ptarmigan" ; Times: 2
+	Query: "Piping plover" ; Times: 6
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1939" ; Times: 1
+	Query: "gilded flicker" ; Times: 2
+	Query: "Vireo bellii" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis mappable:1" ; Times: 1
+	Query: "class:Aves locality:Clarion Island" ; Times: 1
+	Query: "Oceanodroma melania AND Coronados" ; Times: 2
+	Query: "SAGE GROUSE" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "Coccyzus erythropthalmus" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "locality:Clarion Island" ; Times: 1
+	Query: "Huey AND 1912" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 3
+	Query: "Gophers" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "synthliboramphus" ; Times: 1
+	Query: "Melanerpes lewis" ; Times: 1
+	Query: "Phasianus colchicus year &lt;= 1940" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 940 download events in this period)
+Total number of records downloaded: 220
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 4
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-30 ; Times: 4
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-31 ; Times: 5
+	Date: 2019-05-28 ; Times: 5
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:yncas" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "vntype:specimen specificepithet:pertinax genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "county:&#34;Boulder&#34; stateprovince:&#34;Colorado&#34; institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "gilded flicker" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Vireo bellii" ; Times: 1
+
+
+End of report.
