@@ -1,0 +1,161 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 1720
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 182
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 6
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 8
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 12
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 9
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 16
+	Date: 2019-09-01 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 89
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 32
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-24 ; Times: 4
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atricapillus genus:Poecile stateprovince:&#34;Colorado&#34; institutioncode:DMNS basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "recordedby:Fuller" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "(lagopus) NOT (&#34;vulpes&#34;)" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "upland sandpiper" ; Times: 2
+	Query: "Egretta thula" ; Times: 1
+	Query: "(lagopus) NOT (&#34;buteo&#34;)" ; Times: 1
+	Query: "CMNH 1205" ; Times: 1
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "chestnut-sided warbler" ; Times: 1
+	Query: "class:Aves catalognumber:1070 institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Black-capped chickadee vntype:specimen stateprovince:&#34;Colorado&#34; institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bird skins" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+	Query: "accipiter cooperii" ; Times: 1
+	Query: "institutioncode:DMNS" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "corax vntype:specimen institutioncode:DMNS" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 14
+	Query: "Empidonax traillii" ; Times: 8
+	Query: "specificepithet:asio genus:Megascops institutioncode:DMNS" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "(lagopus) NOT (&#34;buteo&#34; OR &#34;vulpes&#34;)" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon" ; Times: 6
+	Query: "genus:Pinguinus year &gt;= 1800" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 36
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "vntype:specimen genus:Poecile institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Black-capped chickadee vntype:specimen genus:Poecile institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "common yellowthroat" ; Times: 5
+	Query: "Corvus brachyrhynchos colorado egg" ; Times: 1
+	Query: "Corvus brachyrhynchos colorado" ; Times: 2
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "family:Sittidae preparations:egg" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "arctic tern" ; Times: 2
+	Query: "osprey" ; Times: 1
+	Query: "cahoon" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;colorado&#34; sex:female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Thraupidae preparations:egg" ; Times: 2
+	Query: "class:aves institutioncode:DMNS" ; Times: 1
+	Query: "campylorhynchus brunneicapillus" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 23
+	Query: "genus:molothrus preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lagopus" ; Times: 1
+	Query: "genus:Pinguinus year &gt;= 1800 year &lt;= 1860" ; Times: 1
+	Query: "mourning dove" ; Times: 1
+	Query: "&#34;White-crowned pigeon&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Pinguinus" ; Times: 1
+	Query: "(Lagopus) NOT (Buteo)" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "vireo bellii" ; Times: 1
+	Query: "Black-capped chickadee vntype:specimen stateprovince:&#34;Colorado&#34; institutioncode:DMNS hassex:1" ; Times: 1
+	Query: "genus:gymnogyps year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "vireo bellii san diego" ; Times: 1
+	Query: "(Lagopus) NOT (&#34;Buteo&#34;)" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile sex:Female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:female institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1073 download events in this period)
+Total number of records downloaded: 151
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 22
+	Country: United States ; Times: 7
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 19
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "strix occidentalis" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
