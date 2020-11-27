@@ -1,0 +1,127 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 220
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 48
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 3
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-09 ; Times: 10
+	Date: 2020-05-06 ; Times: 9
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Junco phaeonotus cochise egg" ; Times: 1
+	Query: "Anas fulvigula" ; Times: 2
+	Query: "recordedby:Fite" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigripes genus:Phoebastria" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Loggerhead" ; Times: 1
+	Query: "American Kestrel" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "grackle" ; Times: 1
+	Query: "institutioncode:DMNS" ; Times: 1
+	Query: "vntype:specimen specificepithet:migratorius genus:Ectopistes hasmedia:1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "“Very heavy” incubation" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 2
+	Query: "Black-vented shearwater" ; Times: 1
+	Query: "Haliaeetus leucocephalus Texas" ; Times: 1
+	Query: "egg Stevens" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "specificepithet:crinitus genus:Myiarchus class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Pica county:&#34;Ventura&#34;" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 6
+	Query: "hummingbird" ; Times: 1
+	Query: "Snowy plover" ; Times: 1
+	Query: "specificepithet:niger genus:Chlidonias class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "american kestrel" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo class:aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "bird eggs white" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes institutioncode:DMNS" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1106 download events in this period)
+Total number of records downloaded: 748
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "egg texas" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Aves" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "continent:Europe" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Haliaeetus leucocephalus Texas" ; Times: 1
+
+
+End of report.
