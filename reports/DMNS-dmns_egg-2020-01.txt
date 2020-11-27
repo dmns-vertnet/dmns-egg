@@ -1,0 +1,150 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 273
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 5
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Guadeloupe ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-03 ; Times: 3
+	Date: 2020-01-02 ; Times: 8
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 8
+	Date: 2020-01-23 ; Times: 6
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 6
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 4
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 2
+	Query: "3868" ; Times: 1
+	Query: "nana Betula" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella preparations:egg" ; Times: 1
+	Query: "Anthony AND Isla Guadalupe" ; Times: 1
+	Query: "Mallard Duck" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 5
+	Query: "canadensis 1876" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sagebrush sparrow" ; Times: 5
+	Query: "Thryomanes bewickii san diego egg" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 2
+	Query: "boreal owl" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bushtit egg" ; Times: 3
+	Query: "common murre 1898" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:peck basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "cardinal" ; Times: 2
+	Query: "genus:leucosticte preparations:egg" ; Times: 1
+	Query: "lanius egg maine" ; Times: 1
+	Query: "Alameda County Cistothorus palustris egg" ; Times: 1
+	Query: "Anthony AND Isla Guadalupe AND Oceanodroma" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:anthony basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 2
+	Query: "ectopistes" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:spencer year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "ruddy shelduck" ; Times: 5
+	Query: "nest hummingbird hasmedia:1" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "specificepithet:corax genus:corvus preparations:egg year &gt;= 1" ; Times: 1
+	Query: "michigan Cistothorus palustris" ; Times: 1
+	Query: "McHenry County Cistothorus palustris" ; Times: 2
+	Query: "(movement)" ; Times: 1
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34; recordedby:Clark" ; Times: 1
+	Query: "sagebrush" ; Times: 1
+	Query: "American kestrel" ; Times: 2
+	Query: "psaltriparus egg" ; Times: 1
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:DMNS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "Brewer’s sparrow" ; Times: 2
+	Query: "Black Rail" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1584 download events in this period)
+Total number of records downloaded: 412
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:leucosticte preparations:egg" ; Times: 1
+
+
+End of report.
