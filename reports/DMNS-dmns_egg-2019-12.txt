@@ -1,0 +1,80 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 231
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 18
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 3
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 17
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mallard duck" ; Times: 2
+	Query: "song sparrow stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;colorado&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "house wren" ; Times: 1
+	Query: "Himantopus AND Island AND California" ; Times: 1
+	Query: "specificepithet:brasilianum genus:Glaucidium class:Aves stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bird egg vanellus" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Oscar E. Baynard year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:paradisaea genus:Sterna continent:Europe" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 17
+	Query: "cmnh" ; Times: 1
+	Query: "Revillagigedo (socorro) institutioncode:DMNS" ; Times: 1
+	Query: "Falco sparverius institutioncode:DMNS" ; Times: 1
+	Query: "Oscar E. Baynard" ; Times: 1
+	Query: "class:aves institutioncode:DMNS" ; Times: 1
+	Query: "wells santa rosa valley california" ; Times: 1
+	Query: "specificepithet:griseus genus:Vireo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 596 download events in this period)
+Total number of records downloaded: 77
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "Falco sparverius institutioncode:DMNS" ; Times: 1
+
+
+End of report.
