@@ -1,0 +1,213 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 2146
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 202
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 16
+	Date: 2019-11-18 ; Times: 9
+	Date: 2019-11-15 ; Times: 25
+	Date: 2019-11-14 ; Times: 6
+	Date: 2019-11-17 ; Times: 4
+	Date: 2019-11-16 ; Times: 20
+	Date: 2019-11-11 ; Times: 13
+	Date: 2019-11-10 ; Times: 5
+	Date: 2019-11-13 ; Times: 6
+	Date: 2019-11-12 ; Times: 11
+	Date: 2019-11-08 ; Times: 23
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-25 ; Times: 4
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-09 ; Times: 11
+	Date: 2019-11-06 ; Times: 19
+	Date: 2019-11-07 ; Times: 23
+	Date: 2019-11-04 ; Times: 9
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa AND Coronados AND Howell AND 1910" ; Times: 1
+	Query: "Frank B. Armstrong" ; Times: 1
+	Query: "Psaltriparus howard egg" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1987" ; Times: 1
+	Query: "country:&#34;denmark&#34;" ; Times: 1
+	Query: "indigo bunting vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "Rissa tridactyla egg" ; Times: 1
+	Query: "distance(location,geopoint(40.7463637403232,-105.199478116534))&lt;602077.435354243" ; Times: 14
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913" ; Times: 3
+	Query: "elf" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "Sharp-tailed grouse" ; Times: 2
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "specificepithet:griseus genus:Vireo stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "whooping crane" ; Times: 2
+	Query: "CMNH" ; Times: 2
+	Query: "yellow rail" ; Times: 3
+	Query: "specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Rhinoceros" ; Times: 1
+	Query: "Greenland" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 3
+	Query: "Aleutian tern" ; Times: 2
+	Query: "Spizella breweri" ; Times: 1
+	Query: "Tufts canada egg" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 AND Rossem" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT Stephens" ; Times: 1
+	Query: "indigo bunting" ; Times: 3
+	Query: "Oceanodroma homochroa AND Farallon AND Barlow" ; Times: 2
+	Query: "class:aves locality:newport news" ; Times: 1
+	Query: "Danish" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile institutioncode:DMNS" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon AND 1896" ; Times: 2
+	Query: "glaucous-winged gull" ; Times: 1
+	Query: "cormorant Alaska" ; Times: 3
+	Query: "Aphelocoma coerulescens 2007" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey" ; Times: 1
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421315" ; Times: 2
+	Query: "distance(location,geopoint(38.245377204844,-107.45914695031))&lt;521019.392285124" ; Times: 2
+	Query: "genus:poecile institutioncode:DMNS" ; Times: 1
+	Query: "Phasianus" ; Times: 2
+	Query: "great auk" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "warbling vireo" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910 NOT Osburn" ; Times: 1
+	Query: "Psaltriparus 1900 egg" ; Times: 1
+	Query: "distance(location,geopoint(34.3968331473169,-119.471169108105))&lt;269545.637102603" ; Times: 3
+	Query: "phasianus" ; Times: 2
+	Query: "Aphelocoma coerulescens 2013" ; Times: 12
+	Query: "Aphelocoma coerulescens 2011" ; Times: 6
+	Query: "Aphelocoma coerulescens 2016" ; Times: 12
+	Query: "Aphelocoma coerulescens 2015" ; Times: 6
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem NOT Huey NOT Stephens" ; Times: 3
+	Query: "bushtit egg" ; Times: 4
+	Query: "bird body size" ; Times: 1
+	Query: "flammulated owl" ; Times: 2
+	Query: "aves howard egg 1900" ; Times: 1
+	Query: "bushtit eggs washington" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND Howell" ; Times: 1
+	Query: "Tufts 1906 egg" ; Times: 1
+	Query: "Piping plover" ; Times: 5
+	Query: "barred owl" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Van Rossem" ; Times: 1
+	Query: "arctic tern" ; Times: 4
+	Query: "ut" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "distance(location,geopoint(39.1862197127719,-105.321721889218))&lt;125847.17822455" ; Times: 2
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "vntype:specimen specificepithet:femoralis genus:FALCO recordedby:armstrong" ; Times: 2
+	Query: "aves howard 1900" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 2
+	Query: "indigo bunting country:&#34;United States&#34;" ; Times: 1
+	Query: "Tufts nova scotia egg" ; Times: 1
+	Query: "specificepithet:femoralis genus:FALCO recordedby:armstrong" ; Times: 1
+	Query: "Phasianus Colchicus" ; Times: 5
+	Query: "morus bassanus" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Howell" ; Times: 3
+	Query: "(snowbird)" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Psaltriparus minimus Washington Pierce County" ; Times: 1
+	Query: "Mycteria americana 2013" ; Times: 4
+	Query: "Sitta pygmaea ventura egg" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "Charadrius melodus 2014" ; Times: 4
+	Query: "Indigo Bunting vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "Rissa tridactyla egg 1902" ; Times: 2
+	Query: "iowa alnorum" ; Times: 1
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT Sechrist NOT Stephens" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1367 download events in this period)
+Total number of records downloaded: 653
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 17
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bushtit eggs" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "seaside sparrow" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 2
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "order:Caprimulgiformes" ; Times: 2
+	Query: "whooping crane" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "order:Accipitriformes" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:FALCO recordedby:armstrong" ; Times: 1
+
+
+End of report.
