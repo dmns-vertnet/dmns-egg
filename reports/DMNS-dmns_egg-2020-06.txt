@@ -1,0 +1,128 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 638
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 37
+	Country: Canada ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United Kingdom ; Times: 36
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-08 ; Times: 6
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 14
+	Date: 2020-06-01 ; Times: 7
+	Date: 2020-06-28 ; Times: 3
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 31
+	Date: 2020-06-11 ; Times: 18
+	Date: 2020-06-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas crecca" ; Times: 6
+	Query: "(murrelet)" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Meadowlark nest" ; Times: 2
+	Query: "Bobolink nest" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 6
+	Query: "&#34;H. A. Edwards&#34; AND Island" ; Times: 1
+	Query: "Bubo" ; Times: 1
+	Query: "Larus occidentalis mass OR weight" ; Times: 1
+	Query: "Pelecanus occidentalis mass OR weight" ; Times: 2
+	Query: "genus:ictinia institutioncode:DMNS" ; Times: 4
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 2
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "&#34;H. A. Edwards&#34;" ; Times: 1
+	Query: "institutioncode:DMNS" ; Times: 4
+	Query: "catalognumber:452 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:carolinus genus:Euphagus stateprovince:&#34;Nova Scotia&#34;" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "Larus argentatus mass OR weight" ; Times: 2
+	Query: "Phalacrocorax penicillatus mass OR weight" ; Times: 2
+	Query: "specificepithet:haliaetus genus:Pandion basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Calcariidae" ; Times: 1
+	Query: "Anas americana" ; Times: 5
+	Query: "Arenaria interpres" ; Times: 2
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Mergus merganser" ; Times: 2
+	Query: "specificepithet:haliaetus genus:Pandion" ; Times: 1
+	Query: "eastern wood pewee" ; Times: 1
+	Query: "Buteo regalis" ; Times: 2
+	Query: "Anas penelope" ; Times: 6
+	Query: "Synthliboramphus Murrelet" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 2
+	Query: "great auk" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "pandion haliaetus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Black Rail" ; Times: 1
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 474 download events in this period)
+Total number of records downloaded: 227
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-10 ; Times: 17
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "california scrub jay" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "elf owl" ; Times: 3
+	Query: "scrub jay" ; Times: 2
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
