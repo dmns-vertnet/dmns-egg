@@ -1,0 +1,139 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 250
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 19
+	Country: United States ; Times: 42
+	Country: United Kingdom ; Times: 31
+	Country: Portugal ; Times: 8
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-06 ; Times: 14
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 5
+	Date: 2020-08-11 ; Times: 8
+	Date: 2020-08-10 ; Times: 9
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-25 ; Times: 8
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 2
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "pacific swallow" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "Molothrus ater eggs" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "A. cristatella" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Aix sponsa" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "ovenbird egg" ; Times: 3
+	Query: "Raine" ; Times: 1
+	Query: "horned lark" ; Times: 2
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "recordedby:sechrist preparations:egg" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Anas strepera" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo regalis" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "1890 Illinois" ; Times: 1
+	Query: "mappable:1 scientificname:Haliaeetus leucocephalus" ; Times: 1
+	Query: "locality:kalevala stateprovince:&#34;manitoba&#34;" ; Times: 5
+	Query: "rhinoceros" ; Times: 1
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "norway" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "key west quail-dove" ; Times: 1
+	Query: "Bradshaw eggs" ; Times: 6
+	Query: "Raine Long Lake" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "mappable:1 scientificname:Anas cyanoptera" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:coerulescens genus:aphelocoma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Horned Lark eggs" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "Laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "Raine Saskatchewan" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 2
+	Query: "Bonasa umbellus" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "lagopus muta" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "worm-eating warbler" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus albus" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "worm-eating warbler egg" ; Times: 1
+	Query: "county:&#34;middlesex&#34; recordedby:giles" ; Times: 4
+	Query: "barred owl" ; Times: 7
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "Raine Melospiza melodia" ; Times: 3
+	Query: "Raine Yellow Warbler" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 756 download events in this period)
+Total number of records downloaded: 50
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 1
+
+
+End of report.
