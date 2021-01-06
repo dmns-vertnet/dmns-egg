@@ -1,0 +1,176 @@
+Report for Institution Code DMNS, Resource dmns_egg
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 326
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 32
+	Country: Cuba ; Times: 2
+	Country: Unknown ; Times: 16
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 46
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-04 ; Times: 32
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-25 ; Times: 4
+	Date: 2020-12-27 ; Times: 2
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 9
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-11 ; Times: 12
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 1
+	Query: "Dives dives" ; Times: 2
+	Query: "Anser fabalis" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "mappable:1 scientificname:Myiarchus tyrannulus" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "bird son" ; Times: 1
+	Query: "lancaster massachusetts" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Puffinus pacificus" ; Times: 1
+	Query: "Agelaius phoeniceus" ; Times: 2
+	Query: "locality:falkland island year &gt;= 1895 year &lt;= 1920" ; Times: 1
+	Query: "Icteria virens" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 1
+	Query: "Pasadena year &gt;= 1906 year &lt;= 1906 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "genus:uria country:&#34;canada&#34;" ; Times: 1
+	Query: "William Hair" ; Times: 2
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "locality:black slough county:&#34;salt lake&#34;" ; Times: 1
+	Query: "Leucosticte arctoa" ; Times: 1
+	Query: "Molothrus ater" ; Times: 2
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "elf" ; Times: 7
+	Query: "3790" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Ring-billed Gull" ; Times: 1
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 2
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "ovenbird" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 2
+	Query: "cmnh" ; Times: 2
+	Query: "Aepyornithiformes" ; Times: 1
+	Query: "specificepithet:schistisagus genus:Larus continent:North America" ; Times: 1
+	Query: "Tiaris bicolor" ; Times: 2
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "Quiscalus quiscula" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "Pipilo maculatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus" ; Times: 1
+	Query: "Lark Bunting eggs" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 1
+	Query: "indian squirrel" ; Times: 2
+	Query: "mappable:1 scientificname:Anous stolidus" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 1
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 2
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 2
+	Query: "pandion haliaetus" ; Times: 1
+	Query: "mappable:1 scientificname:Chordeiles acutipennis" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Ovenbird" ; Times: 1
+	Query: "Haliaeetus albicilla" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "puffinus pacificus" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Rallus longirostris" ; Times: 1
+	Query: "Pasadena 1906" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 705 download events in this period)
+Total number of records downloaded: 890
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 3
+	Query: "specificepithet:schistisagus genus:Larus continent:North America" ; Times: 1
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "Woodpecker" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+
+
+End of report.
